@@ -5,7 +5,7 @@
 Sono Matteo Borghetti, ex studente polimi del corso di CS e sviluppatore.\
 Qui sono presenti un po' di progetti accademici e schifezzine personali, enjoy!
 
-![image]("https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8")
+![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ec-1f1e7.png?v8)
 
 
 I'm Matteo Borghetti, ex student of CS engineering from Polimi and currently software developer.\
